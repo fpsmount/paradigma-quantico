@@ -10,7 +10,7 @@ Nosso grupo ficou responsável pelo Paradigma Quântico, e nossa linguagem utili
 - 👤 Gabrielly Silva | RGM: 30511640
 - 👤 Augusto Liberato | RGM: 30238722
 - 👤 Saulo Silva | RGM: 30372607
-- 👤 Julio | RGM: 32156308
+- 👤 Julio Cassiano | RGM: 32156308
 
 ## 📅 Data da Apresentação
 - Paradigma Quântico (Grupo Rosa Claro): 11/11/2024
