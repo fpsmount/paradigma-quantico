@@ -16,8 +16,8 @@ Nosso grupo ficou responsável pelo Paradigma Quântico, e nossa linguagem utili
 - Paradigma Quântico (Grupo Rosa Claro): 11/11/2024
 
 ## 📘 Paradigma Quântico
-- 📖 **Definição**: Programação quântica é um paradigma de computação que se baseia nos princípios da mecânica quântica, como superposição e emaranhamento, para resolver problemas de forma que computadores clássicos não conseguem. Este paradigma é ideal para problemas que exigem processamento em grande escala, como fatoraçãõ de números grandes e simulação de sistemas complexos.
-- 🔄 **Evolução**: A computação quântica começou a ganhar forma na década de 1980 com as ideias de Richard Feynman e David Deutsch. Peter Shor, nos anos 1990, demonstrou que um computador quântico poderia fatoraizar números de forma eficiente, marcando um ponto de virada na pesquisa com o algoritmo de Shor.
+- 📖 **Definição**: Programação quântica é um paradigma de computação que se baseia nos princípios da mecânica quântica, como superposição e emaranhamento, para resolver problemas de forma que computadores clássicos não conseguem. Este paradigma é ideal para problemas que exigem processamento em grande escala, como fatoração de números grandes e simulação de sistemas complexos.
+- 🔄 **Evolução**: A computação quântica começou a ganhar forma na década de 1980 com as ideias de Richard Feynman e David Deutsch. Peter Shor, nos anos 1990, demonstrou que um computador quântico poderia fatorizar números de forma eficiente, marcando um ponto de virada na pesquisa com o algoritmo de Shor.
 - 🔑 **Características**:
     - **Superposição**: Qubits podem representar 0 e 1 simultaneamente, permitindo computação paralela.
     - **Emaranhamento**: Estado de qubits que permanecem correlacionados de tal maneira que a medição de um afeta o estado do outro instantaneamente.
