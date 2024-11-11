@@ -78,3 +78,5 @@ Com isso, Q# se destaca como uma ferramenta poderosa para explorar a programaç�
 - [A Física Quântica, de um jeito que você vai entender!](https://www.youtube.com/watch?v=docNQJEqGx4) - Vídeo do canal "Somos míopes porque somos breves" sobre física quântica.
 - [Como fazer um computador quântico](https://www.youtube.com/watch?v=xZXj5j5U8HQ) - Vídeo do canal "Ciência Todo Dia" sobre computadores quânticos.
 - [Palestra de Waldemir Cambiucci sobre computação quântica](https://www.youtube.com/watch?v=ExiMNY0aa6U) - Computação Quântica: Conceitos, Qubits, Computadores e Aplicações.
+- [IBM Quantum Documentação](https://docs.quantum.ibm.com/guides?form=MG0AV3) - Introdução ao Qiskit.
+- [Google Cirq](https://quantumai.google/cirq?form=MG0AV3&form=MG0AV3) - Uma estrutura de código aberto para programação de computadores quânticos.
